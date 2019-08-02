@@ -1,2 +1,2 @@
 # similarity-graph
-Given a similarity matrix for a list of nouns in a csv, utilizes multidimensional scaling in order to find an arrangement of points such that distances between two nodes in the resulting graph matches how similar the two nodes are. 
+Utilizes multidimensional scaling in order to find an arrangement of points given a list of nouns. The distances between the two items in the resulting graph correspond to how similar the nodes are given similarity ratios. 
